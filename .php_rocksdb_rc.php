@@ -1,7 +1,7 @@
 <?php
 
 /**
- * A PHP extension for interacting with RocksDB, built with Rust.
+ * A PHP extension for interacting with RocksDB, built with Rust ezz.
  */
 class RocksDB {
     /**
